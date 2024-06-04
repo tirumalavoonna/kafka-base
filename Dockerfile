@@ -8,7 +8,6 @@ RUN set -eux; \
     apt-get install -y --no-install-recommends \
         curl \
         wget \
-        pkg-config \
         telnet; \
     pip install --upgrade pip --no-cache-dir; \ 
     pip install -r requirements.txt --no-cache-dir \
