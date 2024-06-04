@@ -1,3 +1,5 @@
+requests
+urllib3
 jsonschema
 kafka-python
 python-snappy
