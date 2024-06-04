@@ -1,4 +1,3 @@
-psycopg2
 jsonschema
 kafka-python
 python-snappy
